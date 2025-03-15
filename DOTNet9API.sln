@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hexagonal", "DOTNet9API\Hexagonal.csproj", "{168B230D-B73C-4180-90B0-084DD23922F2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hexagonal-WEB API", "DOTNet9API\Hexagonal-WEB API.csproj", "{168B230D-B73C-4180-90B0-084DD23922F2}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hexagonal.Domain", "DOTNet9.Domain\Hexagonal.Domain.csproj", "{A4909594-6F5D-4CC7-A708-B88709DBE4D4}"
 EndProject
