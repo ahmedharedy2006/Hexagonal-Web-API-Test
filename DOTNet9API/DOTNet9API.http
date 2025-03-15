@@ -1,0 +1,6 @@
+@DOTNet9API_HostAddress = http://localhost:5274
+
+GET {{DOTNet9API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
